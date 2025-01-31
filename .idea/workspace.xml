@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2185e400-85a0-479a-af0d-cac1a1cbcf7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Chat_Demo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/chat_client_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/chat_server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-client/src/main/java/chat_client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-client/src/main/java/chat_client/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/chat_server/ClientManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/chat_server/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-server/src/main/java/chat_server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-server/src/main/java/chat_server/ClientManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-server/src/main/java/chat_server/ClientManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +43,7 @@
     "Application.chat_server.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/1. Java Junior/Java Junior (семинары в записи)/Урок 5. КлиентСервер своими руками/lesson_5/chat-server/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
