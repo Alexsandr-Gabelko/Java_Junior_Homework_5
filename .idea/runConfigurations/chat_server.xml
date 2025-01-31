@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="chat_server" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="chat_server.Program" />
+    <module name="chat-server" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
